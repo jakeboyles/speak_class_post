@@ -9,7 +9,9 @@
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
-    "say": "^0.10.0"
+    "node-slack": "0.0.7",
+    "say": "^0.10.0",
+    "twilio": "^2.11.0"
   },
   "devDependencies": {},
   "scripts": {
