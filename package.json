@@ -1,0 +1,21 @@
+{
+  "name": "speak",
+  "version": "1.0.0",
+  "description": "Talk to me!",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "browser-sync": "^2.17.3",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "say": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Jake Boyles",
+  "license": "ISC"
+}
